@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulhakim Raongpradit
 
-🚀 Backend Developer | AI Systems | Computer Engineering Student
+🚀 Backend Developer | DevOps | AI Systems | Computer Engineering Student
 
 ---
 
